@@ -4,8 +4,15 @@
         <description><![CDATA[Andrew Cull]]></description>
         <link>https://thegrid.ai/andrew-cull/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 14:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 15:01:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andrew-cull/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projects]]></title>
+            <description><![CDATA[<article><h1>Projects</h1><p>Hello.</p></article>]]></description>
+            <link>https://thegrid.ai/andrew-cull/projects/index.html</link>
+            <guid isPermaLink="false">d99187fd-a153-4ee7-a0b5-df4aa8d823ae</guid>
+            <pubDate>Sun, 24 Apr 2016 15:01:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://vimeo.com/123793012</p>]]></description>
